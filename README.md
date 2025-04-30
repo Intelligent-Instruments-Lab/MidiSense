@@ -9,3 +9,5 @@ To run, simply download the app, unzip, plug the Midisense receiver, open the ap
 ESP32 - includes receiver and sender code
 
 3D_models - 3D print files to build one MidiSense device
+
+RAVE - features a RAVE Decoder trained on organ sounds with vinyl crackles, with 15 latents cmapped 1 to 1 to the Midisense gyros xyz dimensions
